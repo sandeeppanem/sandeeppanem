@@ -4,51 +4,54 @@ I'm a **Senior Staff / Lead Data Scientist** with 13+ years of experience
 building **production-grade ML & GenAI systems** — from classical predictive
 models to modern **LLM-powered agents** deployed at scale.
 
-Currently, I work on **GenAI agents and ML systems for Sales & Customer Success**
-at enterprise scale, focusing on explainability, reliability, and real business impact.
+I focus on designing **reliable, explainable, and cost-efficient AI systems**
+that support real-world business workflows, especially in **Sales** and **Customer
+engagement** domains.
 
 ---
 
 ## 🔧 What I Work On
 
-- 🤖 **GenAI Agents**
-  - Propensity-to-Buy (PTB), Lead Scoring, Sales & CS Assistants
-  - Natural language interfaces over analytical systems
+- 🤖 **GenAI Agents & AI Copilots**
+  - Sales copilots, lead intelligence assistants, and conversational analytics
+  - Natural language interfaces over structured and unstructured data
 
 - 🧠 **LLMs & Fine-tuning**
-  - LoRA / PEFT on small & mid-sized language models
-  - Prompt engineering, RAG, and hybrid ML + LLM pipelines
+  - LoRA / PEFT on small and mid-sized language models
+  - Prompt engineering, RAG, and hybrid ML + LLM architectures
 
-- ⚡ **Inference & Systems**
+- ⚡ **Inference & AI Systems**
   - CPU/GPU inference optimization
-  - GGUF / llama.cpp vs Transformers benchmarks
-  - Cost–latency trade-offs for real-world deployments
+  - GGUF / llama.cpp vs Transformers benchmarking
+  - Latency–cost trade-offs for production deployments
 
-- 📊 **Explainable ML**
-  - SHAP-based recommendations
-  - Interpretable models for sales, churn, and pipeline risk
+- 📊 **Explainable & Predictive ML**
+  - Interpretable models for conversion likelihood, churn risk, and deal quality
+  - SHAP-driven explanations embedded into user-facing systems
 
-- 🚀 **MLOps & Production**
-  - CI/CD for ML, monitoring, and model lifecycle management
-  - SageMaker, Hugging Face, scalable ML systems
+- 🚀 **MLOps & Productionization**
+  - CI/CD pipelines for ML & GenAI
+  - Model monitoring, retraining, and scalable deployments
+  - SageMaker, Hugging Face, enterprise ML stacks
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 **Qwen Resume Parser**  
+- 🔹 **LLM-powered Resume Parser**  
   LoRA-finetuned small language model with optimized CPU inference and Gradio UI.
 
-- 🔹 **Sales Co-pilot Agent**  
-  GenAI-powered recommendation and conversational agent delivering SHAP-explained
-  upsell, cross-sell, prospecting, and churn insights.
+- 🔹 **Sales Copilot (GenAI Agent)**  
+  Conversational AI assistant that combines predictive ML, real-time analytics,
+  and retrieval-augmented generation to support sales and customer workflows.
 
-- 🔹 **GenAI Lead Scoring Agent**  
-  Hybrid ML + LLM system for ranking leads with real-time explanations and
-  interactive dashboards.
+- 🔹 **AI Lead Intelligence System**  
+  Hybrid ML + LLM system for ranking and explaining lead quality with interactive
+  dashboards and real-time insights.
 
 - 🔹 **LLM Inference Benchmarks**  
-  Practical benchmarks comparing GGUF, llama.cpp, and Transformers on CPU/GPU.
+  Practical benchmarks comparing GGUF, llama.cpp, and Transformers across CPU
+  and GPU setups.
 
 ---
 
@@ -56,7 +59,7 @@ at enterprise scale, focusing on explainability, reliability, and real business 
 
 - MS by Research from **IIIT Hyderabad**
 - Published at **WWW, ECIR, CIKM workshops**
-- Background in NLP, Information Extraction, Entity Linking, and Text Mining
+- Strong foundation in NLP, Information Extraction, Entity Linking, and Text Mining
 
 ---
 
